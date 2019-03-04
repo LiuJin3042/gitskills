@@ -1,1 +1,1 @@
-# gitskills
+This sentence is written to test the git push function # gitskills
